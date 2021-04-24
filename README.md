@@ -1,2 +1,0 @@
-# ome-blog
-blog test
