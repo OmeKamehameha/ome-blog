@@ -32,7 +32,7 @@ DefaultContentLanguage = "en"
   keywords = "travel, blog"
 
   # How many articles should be displayed at once?
-  paginate = 7
+  paginate = 12
 
   # Enable / Disable MathJax
   enable_mathjax    = false
@@ -59,7 +59,7 @@ DefaultContentLanguage = "en"
     gravatarEMail = ""
 
     # set an path to the image file you want to use | overwrites gravatar
-    customImage = "img/avatar2.png"
+    customImage = "img/Kelly.png"
 
     # define the icon you want to use for the overlay for the customImage or gravatar.
     overlayIcon = "fa-home"
