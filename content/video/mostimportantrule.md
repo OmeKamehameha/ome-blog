@@ -8,7 +8,7 @@ tags: [Towlie]
 author: "Universe"
 
 # Set your video id for
-youtube: "a47Fdy2wEgo&t"         # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7IjJiZUutk"
+youtube: "a47Fdy2wEgo"         # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7IjJiZUutk"
 vimeo: ""           # https://vimeo.com/239830182 -> "239830182"
 prezi: ""           # https://prezi.com/v/5z9shnq7jzxs/what-to-study/ -> "5z9shnq7jzxs"
 bilibili: ""        # https://www.bilibili.com/video/BV1Sx411T7QQ -> "BV1Sx411T7QQ"
