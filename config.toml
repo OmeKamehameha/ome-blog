@@ -59,7 +59,7 @@ DefaultContentLanguage = "en"
     gravatarEMail = ""
 
     # set an path to the image file you want to use | overwrites gravatar
-    customImage = "img/avatar.png"
+    customImage = "img/avatar2.png"
 
     # define the icon you want to use for the overlay for the customImage or gravatar.
     overlayIcon = "fa-home"
@@ -112,8 +112,7 @@ DefaultContentLanguage = "en"
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://www.linkedin.com/in/igorbaiborodine", icon = "fab fa-linkedin" },
-      { link = "https://github.com/igor-baiborodine", icon = "fab fa-github" },
+      { link = "https://github.com/OmeKamehameha/ome-blog", icon = "fab fa-github" },
     ]
 
     # credits line configuration

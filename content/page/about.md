@@ -6,6 +6,10 @@ author: "Ghost"
 
 Hello everyone
 This is a page made for Kelly to post her pictures in a secure serverless static website. 
+this is the second attempt, read first attempt below;
+
+this attempt i simply used Netlify to simplify the process and it does work a lot simpler.
+
 
 -overview
 
