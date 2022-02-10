@@ -116,10 +116,10 @@ DefaultContentLanguage = "en"
     ]
 
     # credits line configuration
-    copyrightBy = "Igor Baiborodine"
+    copyrightBy = "Kelly Y Alvarenga"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2017"
-    copyrightUrl = "https://github.com/igor-baiborodine"
+    copyrightUrl = "https://github.com/OmeKamehameha/ome-blog"
     creditsText = "Powered by Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 

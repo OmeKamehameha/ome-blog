@@ -1,6 +1,6 @@
 ---
 title: "Most important rule"
-date: 2022-02-10T03:27:30-06:00
+date: 2021-02-10T03:27:30-06:00
 draft: false
 
 categories: []
