@@ -1,10 +1,10 @@
 ---
 title: "Gunnar"
 date: 2022-02-10T04:08:15-06:00
-draft: true
+draft: false
 
 categories: ['Dog']
-tags: ['Gunnar & Charlotte', 'Gunnar'],
+tags: ['Gunnar & Charlotte', 'Gunnar']
 toc: false
 author: "Ghost"
 featuredImage: img/gunnar.png
