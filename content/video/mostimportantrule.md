@@ -6,7 +6,7 @@ draft: false
 categories: []
 tags: [Towlie]
 author: "Universe"
-
+resizeImages: true
 # Set your video id for
 youtube: "a47Fdy2wEgo"         # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7IjJiZUutk"
 vimeo: ""           # https://vimeo.com/239830182 -> "239830182"
