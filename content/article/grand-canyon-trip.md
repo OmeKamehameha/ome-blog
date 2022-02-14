@@ -1,8 +1,8 @@
 ---
 title: "Top of the world"
-date: 2019-08-1T12:00:01-06:00
+date: 2019-08-10T16:38:29-06:00
 draft: false
-
+resizeImages: false
 categories: ['Travel','Grand Canyon']
 tags: [Arizona]
 toc: false

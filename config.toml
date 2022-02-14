@@ -49,11 +49,11 @@ DefaultContentLanguage = "en"
     # let hugo automatically resize and crop your images to the correct sizes
     # NB: When enabled the image files get renamed by adding additional information,
     #     even if the image has the correct sizes.
-    resizeImages = false
+    resizeImages = true
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = ""
+    subtitle = "Full time Rv living."
 
     # if you want to use gravatar for the header image
     gravatarEMail = ""
