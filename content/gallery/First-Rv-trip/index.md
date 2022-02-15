@@ -1,13 +1,13 @@
 ---
 title: "First Rv Trip"
-date: 2022-02-13T21:13:25-06:00
+date: 2020-12-13T21:13:25-06:00
 draft: false
 
 imageSlider: true   #set to false if you don't want to use the imageSlider but a featuredImage
 resizeImages: false
 categories: []
 tags: []
-author: ""
+author: "Kelly"
 ---
 
 
