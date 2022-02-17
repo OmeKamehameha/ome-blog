@@ -12,7 +12,7 @@ DefaultContentLanguage = "en"
 #googleAnalytics = ""
 
 # Enable / Disable comments on the articles via Disqus.
-#disqusShortname = ""
+disqusShortname = "https://kellyalvarenga-com.disqus.com"
 
 # Enable / Disable open link with a new tab.
 [blackfriday]
