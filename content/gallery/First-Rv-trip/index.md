@@ -8,7 +8,7 @@ resizeImages: false
 categories: []
 tags: []
 author: "Kelly"
-featuredImage: "https://ome-blog-pictures.s3.amazonaws.com/20201219_090825.jpg"
+featuredImage: https://ome-blog-pictures.s3.amazonaws.com/20201219_090825.jpg
 ---
 
 
