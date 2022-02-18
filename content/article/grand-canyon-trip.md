@@ -8,5 +8,5 @@ tags: [Arizona]
 toc: false
 author: "Ghost"
 #featuredImage: img/20180801_174310.jpg
-featuredImage https://ome-blog-pictures.s3.amazonaws.com/20201219_090825.jpg
+featuredImage: https://ome-blog-pictures.s3.amazonaws.com/20201219_090825.jpg
 ---
