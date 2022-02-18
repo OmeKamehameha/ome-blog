@@ -8,12 +8,7 @@ resizeImages: false
 categories: []
 tags: []
 author: "Kelly"
-gallery: [
-"https://photos.app.goo.gl/tcVt84G6u9ULKNcj6",
-"https://photos.app.goo.gl/A5wtUpKtnfncmv2TA",
-"https://photos.app.goo.gl/NzmSVFYASWyznuXy8",
-"https://ome-blog-pictures.s3.amazonaws.com/20201219_090825.jpg" 
-]
+featuredImage: "https://ome-blog-pictures.s3.amazonaws.com/20201219_090825.jpg"
 ---
 
 
