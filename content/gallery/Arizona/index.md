@@ -1,7 +1,7 @@
 ---
 title: "First Trip"
 date: 2020-12-10T11:30:30-06:00
-draft: false
+draft: true
 resizeImages: false
 categories: ['Travelling', 'RV']
 tags: ['Arizona', 'New Mexico']
