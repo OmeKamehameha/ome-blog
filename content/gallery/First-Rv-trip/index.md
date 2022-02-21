@@ -36,10 +36,27 @@ gallery: [
 "https://ome-blog-pictures.s3.amazonaws.com/20210102_074849.jpg",
 "https://ome-blog-pictures.s3.amazonaws.com/20210102_074858.jpg",
 "https://ome-blog-pictures.s3.amazonaws.com/20210102_074904.jpg",
-"https://ome-blog-pictures.s3.amazonaws.com/20210202_195008.jpg"
+"https://ome-blog-pictures.s3.amazonaws.com/20210202_195008.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201220_103621.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201219_090711.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201219_082943.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201219_110428.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201219_073830.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201219_110011.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201215_102136.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201219_083726.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201219_110210.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201213_105707.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201219_110422.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201213_131249.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201219_084858.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201215_101424.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201219_110131.jpg",
+"https://ome-blog-pictures.s3.amazonaws.com/20201219_112442.jpg"
 ]
 ---
 
 
 
 Our first stay in Verde Valley Cottonwood, AZ check in 12/13/2020 - 12/18/2020 a total of five days.
+
