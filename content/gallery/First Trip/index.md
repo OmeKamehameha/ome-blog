@@ -5,8 +5,8 @@ draft: false
 
 imageSlider: true   #set to false if you don't want to use the imageSlider but a featuredImage
 resizeImages: false
-categories: []
-tags: []
+categories: ["Rv"]
+tags: ["Utah","California","Nevada","Arizona","Oregon","New Mexico"]
 author: "Kelly"
 #featuredImage: https://ome-blog-pictures.s3.amazonaws.com/20201219_090825.jpg
 gallery: [
