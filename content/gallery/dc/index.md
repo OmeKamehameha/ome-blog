@@ -9,6 +9,7 @@ categories: ['Washington, D.C']
 tags: []
 author: "kelly"
 ---
-Lincoln memorial
-Washington monument
-Martin Luther King, Jr. National Memorial
+Lincoln memorial/
+Washington monument/
+Martin Luther King, Jr. National Memorial/
+Tidal Basin
