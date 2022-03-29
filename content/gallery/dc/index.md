@@ -9,3 +9,6 @@ categories: ['Washington, D.C']
 tags: []
 author: "kelly"
 ---
+Lincoln memorial
+Washington monument
+The original dreamer
