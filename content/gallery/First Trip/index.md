@@ -1,7 +1,7 @@
 ---
 title: "First Trip"
 date: 2020-12-13T21:13:25-06:00
-draft: true
+draft: false
 
 imageSlider: true   #set to false if you don't want to use the imageSlider but a featuredImage
 resizeImages: false
