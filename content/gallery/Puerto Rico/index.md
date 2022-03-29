@@ -2,7 +2,7 @@
 title: "Old San Juan, PR."
 description: "Castle near Old San Juan."
 date: 2021-07-24T01:30:14Z
-draft: false
+draft: true
 resizeImages: false
 cover: "images/kelly-dreamer.png"
 author: "Ghost"
