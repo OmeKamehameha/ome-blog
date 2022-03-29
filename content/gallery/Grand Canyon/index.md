@@ -1,10 +1,10 @@
 ---
 title: "Gran Canyon Gallery"
 date: 2019-08-10T16:38:29-06:00
-draft: false
+draft: true
 
 imageSlider: true   #set to false if you don't want to use the imageSlider but a featuredImage
-resizeImages: true
+resizeImages: false
 categories: ['Grand Canyon']
 tags: ['Arizona']
 author: "Ghost"
