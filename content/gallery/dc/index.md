@@ -11,4 +11,4 @@ author: "kelly"
 ---
 Lincoln memorial
 Washington monument
-Martin Luther King Jr, Jr. National Memorial
+Martin Luther King, Jr. National Memorial
