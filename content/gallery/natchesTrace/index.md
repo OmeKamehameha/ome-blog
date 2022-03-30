@@ -11,5 +11,4 @@ tags: [Snow Day]
 author: "Kelly"
 ---
 Snow Bunny/
-Louisville/
-Hot Chicken/
+Hot Chicken
