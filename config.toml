@@ -113,6 +113,7 @@ disqusShortname = "kellyalvarenga-com"
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
       { link = "https://github.com/OmeKamehameha/ome-blog", icon = "fab fa-github" },
+      {link = "https://www.snapchat.com/add/kellyalva?share_id=NUM5ODgw&locale=en_US", icon = "fab fa-snapchat"}
     ]
 
     # credits line configuration
