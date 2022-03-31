@@ -2,7 +2,7 @@
 title: "About" 
 date: "2021-07-24" 
 author: "Ghost" 
-featuredImage: avatar.png
+featuredImage: img/avatar.png
 ---
 
 Greetings,   
