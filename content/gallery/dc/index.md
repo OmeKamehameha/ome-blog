@@ -6,8 +6,8 @@ draft: false
 imageSlider: true   #set to false if you don't want to use the imageSlider but a featuredImage
 resizeImages: false
 categories: ['Washington, D.C']
-tags: []
-author: "kelly"
+tags: ['Lincoln Memorial','Cherry Blossom']
+author: "Kelly"
 ---
 Lincoln memorial/
 Washington monument/
