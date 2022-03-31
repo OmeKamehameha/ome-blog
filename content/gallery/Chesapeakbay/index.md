@@ -6,7 +6,7 @@ resizeImages: false
 
 imageSlider: true   #set to false if you don't want to use the imageSlider but a featuredImage
 
-categories: []
-tags: []
-author: ""
+categories: ['DC','CherryBlossom','Maryland']
+tags: ['Virginia']
+author: "Kelly"
 ---
