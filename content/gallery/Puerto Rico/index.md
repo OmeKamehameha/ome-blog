@@ -5,7 +5,7 @@ date: 2021-07-24T01:30:14Z
 draft: false
 resizeImages: false
 author: "Ghost"
-category: ['Puerto Rico']
+categories: ['Puerto Rico']
 tags: ['San Juan']
 ---
 
