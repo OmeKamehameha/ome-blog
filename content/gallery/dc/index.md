@@ -5,11 +5,14 @@ draft: false
 
 imageSlider: true   #set to false if you don't want to use the imageSlider but a featuredImage
 resizeImages: false
-categories: ['Washington, D.C']
+categories: ["Washington,D.C."]
 tags: ['Lincoln Memorial','Cherry Blossom']
 author: "Kelly"
 ---
-Lincoln memorial/
-Washington monument/
-Martin Luther King, Jr. National Memorial/
+Lincoln memorial  
+  
+Washington monument 
+  
+Martin Luther King, Jr. National Memorial 
+  
 Tidal Basin
