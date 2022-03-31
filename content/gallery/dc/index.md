@@ -5,7 +5,7 @@ draft: false
 
 imageSlider: true   #set to false if you don't want to use the imageSlider but a featuredImage
 resizeImages: false
-categories: ['D.C.']
+categories: [D.C.]
 tags: ['Lincoln Memorial','Cherry Blossom']
 author: "Kelly"
 ---
