@@ -1,13 +1,12 @@
 ---
-title: "Old San Juan, PR."
-description: "Castle near Old San Juan."
+title: "San Juan, Puerto Rico"
+#description: "Castle near Old San Juan."
 date: 2021-07-24T01:30:14Z
 draft: false
 resizeImages: false
-cover: "img/avatar2.png"
 author: "Ghost"
-category: ['San Juan']
-tags: ['Puerto Rico']
+category: ['Puerto Rico']
+tags: ['San Juan']
 ---
 
 We Stayed in Puerto Rico from July 1st 2021 till July 30 2021, visited El Yunque national park and a few other touristy things.
