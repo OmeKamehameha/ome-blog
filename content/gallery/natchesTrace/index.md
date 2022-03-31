@@ -6,9 +6,8 @@ resizeImages: false
 
 imageSlider: true   #set to false if you don't want to use the imageSlider but a featuredImage
 
-categories: ['Hohenwald, TN ']
-tags: [Snow Day]
+categories: ['Hohenwald','Nashville','Snow Day','Snow Bunny']
+tags: ['Tennessee']
 author: "Kelly"
 ---
-Snow Bunny/
-Hot Chicken
+
