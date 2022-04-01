@@ -9,7 +9,7 @@ enableRobotsTXT = true
 DefaultContentLanguage = "en"
 
 # Enable / Disable Google Analytics statistics for your site
-#googleAnalytics = ""
+googleAnalytics = "UA-224687026-2"
 
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = "kellyalvarenga-com"
