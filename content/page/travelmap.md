@@ -3,7 +3,7 @@ title: "Travelmap"
 date: 2022-03-30T09:40:53-05:00
 draft: false
 excludeFromTopNav: false
-featuredImage: img/Image-1 (9).jpg
+featuredImage: img/Image-1 (6).jpg
 
 # set the link if you want to redirect the user.
 link: ""
