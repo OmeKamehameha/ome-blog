@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghost on Kelly&#39;s Blog</title>
+    <link>https://kellyalvarenga.com/author/ghost/</link>
+    <description>Recent content in Ghost on Kelly&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 Feb 2022 04:08:15 -0600</lastBuildDate><atom:link href="https://kellyalvarenga.com/author/ghost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top of the world</title>
+      <link>https://kellyalvarenga.com/article/topoftheworld/</link>
+      <pubDate>Sat, 10 Aug 2019 16:38:29 -0600</pubDate>
+      
+      <guid>https://kellyalvarenga.com/article/topoftheworld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gunnar</title>
+      <link>https://kellyalvarenga.com/article/gunnar/</link>
+      <pubDate>Thu, 10 Feb 2022 04:08:15 -0600</pubDate>
+      
+      <guid>https://kellyalvarenga.com/article/gunnar/</guid>
+      <description>Gunnar is one half of the deadly duo Gunnar and Charlotte, they love nothing more than to run around chasing birds and each other.
+He was born on October 29, 2019, he is a solid liver brown with only a sliver of white fur on his neck he was purchased when he was 3 months old from an ad on Craigslist it read &amp;ldquo;Weimerainer mix puppies $100&amp;rdquo;. The owner threw in his sister Charlotte for only $50 more.</description>
+    </item>
+    
+    <item>
+      <title>San Juan, Puerto Rico</title>
+      <link>https://kellyalvarenga.com/gallery/puerto-rico/</link>
+      <pubDate>Sat, 24 Jul 2021 01:30:14 +0000</pubDate>
+      
+      <guid>https://kellyalvarenga.com/gallery/puerto-rico/</guid>
+      <description>We Stayed in Puerto Rico from July 1st 2021 till July 30 2021, visited El Yunque national park and a few other touristy things.
+The Airbnb we got was in Rio Piedras which could be &amp;lsquo;ok&amp;rsquo; or &amp;lsquo;not ok at all&amp;rsquo; luckily we landed on the better side of that neighborhood, overall really enjoyed my stay here.
+Some of the things we learned in PR:
+-You can rent a moving van cheaper than you can rent a compact car.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://kellyalvarenga.com/page/about/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kellyalvarenga.com/page/about/</guid>
+      <description>Greetings,
+This is a page made for Kelly to post her pictures in a secure serverless static website. this is the second attempt, read first attempt below;
+1st attempt:
+-created static files using hugo https://themes.gohugo.io/: -uploaded them to Github -used AWS codebuild to run a sync to an s3 bucket (later removed this) -purchased domain -created records in Route53 -created Cloudfront distribution &amp;ndash;note: need to ensure used rest api endpoint rather than usding the bucket to serve the files -used lambda@Edge function to create a redirect for the uri(see:https://dev.</description>
+    </item>
+    
+  </channel>
+</rss>

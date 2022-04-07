@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Kelly&#39;s Blog</title>
+    <link>https://kellyalvarenga.com/page/</link>
+    <description>Recent content in Pages on Kelly&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 30 Mar 2022 09:40:53 -0500</lastBuildDate><atom:link href="https://kellyalvarenga.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Travelmap</title>
+      <link>https://kellyalvarenga.com/page/travelmap/</link>
+      <pubDate>Wed, 30 Mar 2022 09:40:53 -0500</pubDate>
+      
+      <guid>https://kellyalvarenga.com/page/travelmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://kellyalvarenga.com/page/github/</link>
+      <pubDate>Mon, 01 Nov 2021 13:17:56 +0100</pubDate>
+      
+      <guid>https://kellyalvarenga.com/page/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://kellyalvarenga.com/page/about/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kellyalvarenga.com/page/about/</guid>
+      <description>Greetings,
+This is a page made for Kelly to post her pictures in a secure serverless static website. this is the second attempt, read first attempt below;
+1st attempt:
+-created static files using hugo https://themes.gohugo.io/: -uploaded them to Github -used AWS codebuild to run a sync to an s3 bucket (later removed this) -purchased domain -created records in Route53 -created Cloudfront distribution &amp;ndash;note: need to ensure used rest api endpoint rather than usding the bucket to serve the files -used lambda@Edge function to create a redirect for the uri(see:https://dev.</description>
+    </item>
+    
+  </channel>
+</rss>
